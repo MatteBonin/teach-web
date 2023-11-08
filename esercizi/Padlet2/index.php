@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="Matteo Bonin">
-  <meta name="generator" content="Hugo 0.84.0">
+  <meta name="generator" content="Matteo 2.0">
   <title>O.M.G - Cittadella</title>
 
   <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/carousel/">
@@ -100,7 +100,7 @@
       <!-- Quarta colonna -->
         <div class="col-lg-4">
           <img src="https://www.lospecialistadimc.it/wp-content/uploads/2020/07/shutterstock_Pixel-Shot-mini-1024x683.jpg" alt="Pitture" class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140">
-          <h2 style="padding: 10px 0px">Ripristino pitture</h2>
+          <h2 style="padding: 10px 0px">Imbiancature e Pitture</h2>
           <p>Imbiancatura di pareti esterne e interne, pulizia cementi esterni, manutenzione di recinzioni in ferro e legno.</p>
           <p><a class="btn btn-warning" href="./Lavori.html">Dettagli »</a></p>
         </div>
